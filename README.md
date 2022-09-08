@@ -1,4 +1,4 @@
-### Demo: https://sergeyxxi.github.io/Stream-gallery/
+### Demo: https://sergeyxxi.github.io/stream-gallery/
 #### Доступные горячие клавишы(hot keys):
 &larr; , &uarr; - Предыдущее изображение<br>
 __&rarr;__ , __&darr;__ - Следующее изображение<br>
